@@ -1,5 +1,6 @@
 # python-email-automation
 Lightweight Python project for automating emails with scheduling and CSV support, built using smtplib, schedule, and pandas.
+
 Email Automation Project
 
 📌 Overview
@@ -19,6 +20,7 @@ Environment variable support for credentials security.
 
 Simple and lightweight project (perfect for learning & resumes).
 
+
 🛠️ Tech Stack
 
 Python
@@ -32,11 +34,17 @@ schedule (for scheduling emails)
 python-dotenv (for hiding credentials)
 
 📂 Project Structure
+
 Email-Automation/
+
 │── main.py
+
 │── emails.csv
+
 │── .env
+
 │── requirements.txt
+
 │── README.md
 
 ⚙️ Installation
