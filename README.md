@@ -1,6 +1,7 @@
 # python-email-automation
 Lightweight Python project for automating emails with scheduling and CSV support, built using smtplib, schedule, and pandas.
 Email Automation Project
+
 📌 Overview
 
 This project is a Python-based Email Automation Tool that helps in sending bulk or scheduled emails automatically.
@@ -43,6 +44,7 @@ Email-Automation/
 Clone the repository:
 
 git clone https://github.com/Shivaay21/python-email-automation
+
 cd email-automation
 
 
